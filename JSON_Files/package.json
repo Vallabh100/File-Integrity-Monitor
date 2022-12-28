@@ -1,0 +1,16 @@
+{
+  "name": "file-integrity-monitor",
+  "version": "1.0.0",
+  "description": "file integrity monitor project for ISAA",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vallabh Nerlekar",
+  "license": "ISC",
+  "dependencies": {
+    "dropbox": "^10.34.0",
+    "file-system": "^2.2.2",
+    "md5": "^2.3.0"
+  }
+}
